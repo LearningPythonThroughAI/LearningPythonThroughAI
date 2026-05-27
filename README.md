@@ -9,3 +9,10 @@ your a goose
 Anyway this Project is to Document and backup everything i create using python while being taught by AI
 
 Although AI will be teaching the concepts and how to use python correctly i will not be copying and pasting code straight from any AI i will be writing everything myself 
+
+Current Project Working on --> 
+
+List of everything i have done 
+[
+
+]
